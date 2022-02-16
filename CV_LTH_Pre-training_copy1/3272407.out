@@ -1,0 +1,142 @@
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 1: 38: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 2: 39: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 3: 40: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 4: 41: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 5: 42: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 6: 43: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 7: 44: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 8: 45: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 9: 46: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 10: 47: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 11: 48: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 12: 49: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 13: 50: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 14: 51: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 15: 52: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 16: 53: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 17: 54: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 18: 55: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 19: 56: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 20: 57: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 21: 58: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 22: 59: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 23: 60: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 24: 61: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 25: 62: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 26: 63: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 27: 64: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 27: main_imp_downstream: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 28: 65: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 29: 66: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 30: 67: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 31: 68: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 32: 69: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 33: 70: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 34: 71: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 35: 72: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 36: 73: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 37: 74: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 38: 75: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 39: 76: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 40: 77: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 41: 78: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 42: 79: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 43: 80: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 44: 81: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 45: 82: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 46: 83: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 47: 84: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 48: 85: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 49: 86: command not found
+/g/g20/olivare/.lsbatch/1645027620.3272407.shell: line 50: 87: command not found
+No command is specified. Job not submitted.
+logout
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@lassen710>
+Subject: Job 3272407: <   38  cd /usr/workspace/olivare/;   39  dir;   40  mkdir Imagenet_Dense;   41  mv /g/g20/olivare/examples/imagenet/checkpoint.pth.tar  /usr/workspace/olivare/Imagenet_Dense/;   42  mv /g/g20/olivare/examples/imagenet/model_best.pth.tar /usr/workspace/olivare/Imagenet_Dense/;   43  mv /g/g20/olivare/examples2/imagenet/noise_checkpoint.pth.tar /usr/workspace/olivare/Imagenet_Dense/;   44  mv /g/g20/olivare/examples2/imagenet/noise_model_best.pth.tar /usr/workspace/olivare/Imagenet_Dense/;   45  cd Imagenet_Dense/;   46  dir;   47  cd /usr/workspace/olivare/;   48  source opence/bin/activate;   49  bsub -nnodes 1 -q pdebug -Is /bin/bash/;   50  bsub -nnodes 1 -q pdebug -Is /bin/bash;   51  ls;   52  cdpwd;   53  pwd;   54  ls;   55  history;   56  cd /g/g20/olivare/CV_LTH_Pre-training_copy1/;   57  ls;   58  vi main_imp_downstream.py ;   59  history;   60  ls;   61  vi main_imp_downstream.py ;   62  history;   63  vi main_imp_downstream.py ;   64  history | main_imp_downstream;   65  history | grep main_imp_downstream;   66  vi main_imp_imagenet2.py ;   67  vi main_imp_downstream.py ;   68  ls;   69  vi utils.py ;   70  vi pruning_utils.py ;   71  vi utils.py ;   72  history | grep history;   73  history | grep downstream;   74  vi utils.py ;   75  vi main_imp_imagenet2.py ;   76  history | grep main_imp_imagenet2;   77  cd ../CV_LTH_Pre-training_copy3/;   78  ls;   79  vi main_imp_imagenet2.py ;   80  bsub -nnodes 1 -q pdebug;   81  bsub -nnodes 1 -q pdebug -ls /bin/bash;   82  bsub -nnodes 1 -q pdebug -Is /bin/bash;   83  cd ../CV_LTH_Pre-training_copy;   84  cd ../CV_LTH_Pre-training_copy1;   85  vi main_imp_imagenet.py ;   86  vi main_imp_imagenet2.py ;   87  history | bsub> in cluster <lassen> Exited
+
+Job <   38  cd /usr/workspace/olivare/;   39  dir;   40  mkdir Imagenet_Dense;   41  mv /g/g20/olivare/examples/imagenet/checkpoint.pth.tar  /usr/workspace/olivare/Imagenet_Dense/;   42  mv /g/g20/olivare/examples/imagenet/model_best.pth.tar /usr/workspace/olivare/Imagenet_Dense/;   43  mv /g/g20/olivare/examples2/imagenet/noise_checkpoint.pth.tar /usr/workspace/olivare/Imagenet_Dense/;   44  mv /g/g20/olivare/examples2/imagenet/noise_model_best.pth.tar /usr/workspace/olivare/Imagenet_Dense/;   45  cd Imagenet_Dense/;   46  dir;   47  cd /usr/workspace/olivare/;   48  source opence/bin/activate;   49  bsub -nnodes 1 -q pdebug -Is /bin/bash/;   50  bsub -nnodes 1 -q pdebug -Is /bin/bash;   51  ls;   52  cdpwd;   53  pwd;   54  ls;   55  history;   56  cd /g/g20/olivare/CV_LTH_Pre-training_copy1/;   57  ls;   58  vi main_imp_downstream.py ;   59  history;   60  ls;   61  vi main_imp_downstream.py ;   62  history;   63  vi main_imp_downstream.py ;   64  history | main_imp_downstream;   65  history | grep main_imp_downstream;   66  vi main_imp_imagenet2.py ;   67  vi main_imp_downstream.py ;   68  ls;   69  vi utils.py ;   70  vi pruning_utils.py ;   71  vi utils.py ;   72  history | grep history;   73  history | grep downstream;   74  vi utils.py ;   75  vi main_imp_imagenet2.py ;   76  history | grep main_imp_imagenet2;   77  cd ../CV_LTH_Pre-training_copy3/;   78  ls;   79  vi main_imp_imagenet2.py ;   80  bsub -nnodes 1 -q pdebug;   81  bsub -nnodes 1 -q pdebug -ls /bin/bash;   82  bsub -nnodes 1 -q pdebug -Is /bin/bash;   83  cd ../CV_LTH_Pre-training_copy;   84  cd ../CV_LTH_Pre-training_copy1;   85  vi main_imp_imagenet.py ;   86  vi main_imp_imagenet2.py ;   87  history | bsub> was submitted from host <lassen709> by user <olivare> in cluster <lassen> at Wed Feb 16 08:07:00 2022
+Job was executed on host(s) <1*lassen710>, in queue <pbatch>, as user <olivare> in cluster <lassen> at Wed Feb 16 08:07:02 2022
+                            <40*lassen739>
+</g/g20/olivare> was used as the home directory.
+</g/g20/olivare/CV_LTH_Pre-training_copy1> was used as the working directory.
+Started at Wed Feb 16 08:07:02 2022
+Terminated at Wed Feb 16 08:07:08 2022
+Results reported at Wed Feb 16 08:07:08 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+   38  cd /usr/workspace/olivare/
+   39  dir
+   40  mkdir Imagenet_Dense
+   41  mv /g/g20/olivare/examples/imagenet/checkpoint.pth.tar  /usr/workspace/olivare/Imagenet_Dense/
+   42  mv /g/g20/olivare/examples/imagenet/model_best.pth.tar /usr/workspace/olivare/Imagenet_Dense/
+   43  mv /g/g20/olivare/examples2/imagenet/noise_checkpoint.pth.tar /usr/workspace/olivare/Imagenet_Dense/
+   44  mv /g/g20/olivare/examples2/imagenet/noise_model_best.pth.tar /usr/workspace/olivare/Imagenet_Dense/
+   45  cd Imagenet_Dense/
+   46  dir
+   47  cd /usr/workspace/olivare/
+   48  source opence/bin/activate
+   49  bsub -nnodes 1 -q pdebug -Is /bin/bash/
+   50  bsub -nnodes 1 -q pdebug -Is /bin/bash
+   51  ls
+   52  cdpwd
+   53  pwd
+   54  ls
+   55  history
+   56  cd /g/g20/olivare/CV_LTH_Pre-training_copy1/
+   57  ls
+   58  vi main_imp_downstream.py 
+   59  history
+   60  ls
+   61  vi main_imp_downstream.py 
+   62  history
+   63  vi main_imp_downstream.py 
+   64  history | main_imp_downstream
+   65  history | grep main_imp_downstream
+   66  vi main_imp_imagenet2.py 
+   67  vi main_imp_downstream.py 
+   68  ls
+   69  vi utils.py 
+   70  vi pruning_utils.py 
+   71  vi utils.py 
+   72  history | grep history
+   73  history | grep downstream
+   74  vi utils.py 
+   75  vi main_imp_imagenet2.py 
+   76  history | grep main_imp_imagenet2
+   77  cd ../CV_LTH_Pre-training_copy3/
+   78  ls
+   79  vi main_imp_imagenet2.py 
+   80  bsub -nnodes 1 -q pdebug
+   81  bsub -nnodes 1 -q pdebug -ls /bin/bash
+   82  bsub -nnodes 1 -q pdebug -Is /bin/bash
+   83  cd ../CV_LTH_Pre-training_copy
+   84  cd ../CV_LTH_Pre-training_copy1
+   85  vi main_imp_imagenet.py 
+   86  vi main_imp_imagenet2.py 
+   87  history | bsub
+
+(... more ...)
+------------------------------------------------------------
+
+Exited with exit code 255.
+
+Resource usage summary:
+
+    CPU time :                                   0.16 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              -
+    Max Threads :                                -
+    Run time :                                   6 sec.
+    Turnaround time :                            8 sec.
+
+The output (if any) is above this job summary.
+
